@@ -1,10 +1,10 @@
 # 🧑‍💻 Tiago Oliveira
 
-**`Desenvolvedor Front-end`**
+**`Desenvolvedor Front-end`**   **`QA Tester (Quality Assurance Tester)`**
 
 👋 Olá, eu sou Tiago Oliveira
 🎯 Estudante de Análise e Desenvolvimento de Sistemas
-💻 Atualmente focado em Front-end (HTML, CSS e JavaScript)
+💻 Atualmente focado em QA Tester (Quality Assurance Tester) e Front-end (HTML, CSS e JavaScript)
 🚀 Construindo projetos para desenvolver meu portfólio e entrar no mercado de tecnologia
 📚 Apaixonado por aprendizado contínuo e por transformar ideias em soluções digitais.
 
