@@ -60,11 +60,7 @@ Estou em transição de carreira para a área de tecnologia, construindo meu por
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=tiago-oliveira-ti&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a0c4ff&icon_color=a0c4ff&text_color=ffffff&rank_icon=github" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiago-oliveira-ti&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a0c4ff&text_color=ffffff" />
 </div>
-
-<div align="center">
- <img src="https://github-readme-streak-stats.vercel.app?user=tiago-oliveira-ti&theme=tokyonight&hide_border=true&background=0d1117&ring=a0c4ff&fire=a0c4ff&currStreakLabel=a0c4ff" />
-</div>
-
+![GitHub commits](https://img.shields.io/github/commit-activity/m/tiago-oliveira-ti/tiago-oliveira-ti?style=for-the-badge&color=a0c4ff&label=Commits%20este%20m%C3%AAs)
 ---
 
 ## 🎯 Em Aprendizado
