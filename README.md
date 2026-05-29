@@ -62,6 +62,7 @@ Estou em transição de carreira para a área de tecnologia, construindo meu por
 </div>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=tiago-oliveira-ti&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a0c4ff&line=a0c4ff&point=ffffff" width="100%"/>
+
 ---
 
 ## 🎯 Em Aprendizado
@@ -80,7 +81,7 @@ Estou em transição de carreira para a área de tecnologia, construindo meu por
 ## 📂 Projetos em Destaque
 
 > 🚧 Projetos em desenvolvimento — em breve por aqui! Fique de olho 👀
-> 💡 Mais projetos de QA e Front-end em desenvolvimento — fique de olho!
+
 
 ---
 
@@ -105,6 +106,8 @@ Estou em transição de carreira para a área de tecnologia, construindo meu por
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%"/>
+  
+
   
   <sub>⭐ Se algum projeto te ajudou, considere dar uma estrela! Isso me motiva muito 🚀</sub>
 </div>
