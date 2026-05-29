@@ -62,7 +62,7 @@ Estou em transição de carreira para a área de tecnologia, construindo meu por
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=tiago-oliveira-ti&theme=tokyonight&hide_border=true&background=0d1117&ring=a0c4ff&fire=a0c4ff&currStreakLabel=a0c4ff" />
+  <img src="https://streak-stats.demolab.com?user=tiago-oliveira-ti&theme=tokyonight&hide_border=true&background=0d1117&ring=a0c4ff&fire=a0c4ff&currStreakLabel=a0c4ff" />
 </div>
 
 ---
