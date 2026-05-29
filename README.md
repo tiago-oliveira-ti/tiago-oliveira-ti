@@ -82,12 +82,7 @@ Estou em transição de carreira para a área de tecnologia, construindo meu por
 
 ## 📂 Projetos em Destaque
 
-<div align="center">
-
-[![Portfólio](https://github-readme-stats.vercel.app/api/pin/?username=tiago-oliveira-ti&repo=tiago-oliveira-ti.github.io&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a0c4ff&text_color=ffffff&icon_color=a0c4ff)](https://github.com/tiago-oliveira-ti/tiago-oliveira-ti.github.io)
-
-</div>
-
+> 🚧 Projetos em desenvolvimento — em breve por aqui! Fique de olho 👀
 > 💡 Mais projetos de QA e Front-end em desenvolvimento — fique de olho!
 
 ---
