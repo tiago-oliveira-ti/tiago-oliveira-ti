@@ -8,7 +8,7 @@
 
 ## 👋 Sobre mim
 
-Olá! Sou **Tiago Oliveira**, estudante de **Análise e Desenvolvimento de Sistemas** em Caruaru – PE, com foco em **QA Testing** e **Desenvolvimento Front-end**.
+Olá! Sou **Tiago Oliveira**, **formado em Análise e Desenvolvimento de Sistemas** e moro em Caruaru – PE, com foco em **QA Testing**, **Suporte Técnico** e **Desenvolvimento Front-end**.
 
 Estou em transição de carreira para a área de tecnologia, construindo meu portfólio com projetos práticos e buscando minha primeira oportunidade no mercado de TI.
 
